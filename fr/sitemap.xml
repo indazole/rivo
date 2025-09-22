@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://indazole.github.io/rivo/fr/</loc>
+    <loc>https://rivo.bio/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://indazole.github.io/rivo/en/"
+                href="https://rivo.bio/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://indazole.github.io/rivo/it/"
+                href="https://rivo.bio/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://indazole.github.io/rivo/fr/"
+                href="https://rivo.bio/fr/"
                 />
   </url>
 </urlset>
