@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://indazole.github.io/rivo/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://indazole.github.io/rivo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://indazole.github.io/rivo/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://indazole.github.io/rivo/fr/"
+                />
+  </url>
+</urlset>
