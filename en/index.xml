@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rivo Bio</title>
-    <link>https://indazole.github.io/rivo/en/</link>
+    <link>https://rivo.bio/en/</link>
     <description>Recent content on Rivo Bio</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 20 Sep 2025 13:07:07 -0400</lastBuildDate>
-    <atom:link href="https://indazole.github.io/rivo/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rivo.bio/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Rivo Bio</title>
-      <link>https://indazole.github.io/rivo/en/about/</link>
+      <link>https://rivo.bio/en/about/</link>
       <pubDate>Sat, 20 Sep 2025 13:07:07 -0400</pubDate>
-      <guid>https://indazole.github.io/rivo/en/about/</guid>
+      <guid>https://rivo.bio/en/about/</guid>
       <description>&lt;p&gt;Rivo Bio is leading the discovery of next generation small molecule CNS therapeutics through an integrative network medicine-based approach, designed to unlock the complexity of neurodisorders, accelerate discovery, and de-risk therapeutic outcomes. We move beyond traditional approaches by leveraging innovations in multitarget discovery and modulation, harnessing network effects for greater therapeutic impact.  Our approach is set to transform how treatments are developed, to deliver life-changing solutions to patients in need.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rivo Bio: Science</title>
-      <link>https://indazole.github.io/rivo/en/science/</link>
+      <link>https://rivo.bio/en/science/</link>
       <pubDate>Sat, 20 Sep 2025 12:59:49 -0400</pubDate>
-      <guid>https://indazole.github.io/rivo/en/science/</guid>
+      <guid>https://rivo.bio/en/science/</guid>
       <description>&lt;p&gt;Rivo Bio is developing the next generation of neuromedicines with a proprietary computationally enabled approach to rational multi-target drug design, modernizing drug discovery for complex neurodisorders.  Supported by advances in AI technology, we design single drugs with intentional multimodal activity to achieve greater efficacy and safety in hard-to-treat diseases.&lt;/p&gt;&#xA;&lt;p&gt;We are focusing on developing multifunctional small molecule therapeutics for treating central nervous system disorders, including:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Neuropsychiatric Disorders&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;&lt;strong&gt;Neurological Disorders&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;&lt;strong&gt;Neurodegenerative Diseases&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
   </channel>

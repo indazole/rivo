@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://indazole.github.io/rivo/en/about/</loc>
+    <loc>https://rivo.bio/en/about/</loc>
     <lastmod>2025-09-20T13:07:07-04:00</lastmod>
   </url><url>
-    <loc>https://indazole.github.io/rivo/en/</loc>
+    <loc>https://rivo.bio/en/</loc>
     <lastmod>2025-09-20T13:07:07-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://indazole.github.io/rivo/fr/"
+                href="https://rivo.bio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://indazole.github.io/rivo/it/"
+                href="https://rivo.bio/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://indazole.github.io/rivo/en/"
+                href="https://rivo.bio/en/"
                 />
   </url><url>
-    <loc>https://indazole.github.io/rivo/en/science/</loc>
+    <loc>https://rivo.bio/en/science/</loc>
     <lastmod>2025-09-20T12:59:49-04:00</lastmod>
   </url>
 </urlset>
